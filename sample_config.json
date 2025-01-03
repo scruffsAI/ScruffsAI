@@ -1,0 +1,5 @@
+{
+    "network": "mainnet",
+    "threshold": 0.8,
+    "alert_email": "alerts@scruffs.ai"
+}
